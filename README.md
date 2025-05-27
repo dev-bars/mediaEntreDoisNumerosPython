@@ -1,5 +1,5 @@
 ### Informações do projeto:
-<p>Desenvolvi um programa em <b>Python</b>b> - console Back-end, esta aplicação para resolver um problema de encontrar a média entre valores. <br>
+<p>Desenvolvi um programa em <b>Python</b> - console Back-end, esta aplicação para resolver um problema de encontrar a média entre valores. <br>
 Defini e declarei as variáveis para facilitar a manutenção do código, pois este é um prototipo inicial, que sequentemente irá cálcular e demonstrar o restultado da análise de vários dados.
 Apliquei o controle de excessões de erros, alertando caso os dados inseridos pelo usuario sejam inválidos.
 
